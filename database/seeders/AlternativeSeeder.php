@@ -16,23 +16,43 @@ class AlternativeSeeder extends Seeder
     {
         //
         Alternative::create([
-            'name' => 'Dendy Safrudin'
+            'name' => 'Karyawan 1'
         ]);
 
         Alternative::create([
-            'name' => 'Ahmad Rivaldi'
+            'name' => 'Karyawan 2'
         ]);
 
         Alternative::create([
-            'name' => 'Budi Gunawan'
+            'name' => 'Karyawan 3'
         ]);
 
         Alternative::create([
-            'name' => 'Fauzi Fahrul'
+            'name' => 'Karyawan 4'
         ]);
 
         Alternative::create([
-            'name' => 'Farhandika'
+            'name' => 'Karyawan 5'
+        ]);
+
+        Alternative::create([
+            'name' => 'Karyawan 6'
+        ]);
+
+        Alternative::create([
+            'name' => 'Karyawan 7'
+        ]);
+
+        Alternative::create([
+            'name' => 'Karyawan 8'
+        ]);
+
+        Alternative::create([
+            'name' => 'Karyawan 9'
+        ]);
+
+        Alternative::create([
+            'name' => 'Karyawan 10'
         ]);
     }
 }
